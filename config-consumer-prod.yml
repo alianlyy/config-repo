@@ -2,4 +2,4 @@ info:
   profile: prod
 name: Paul
 words: 'God bless you and me'
-food: '${cipher}403c08363d456d41bba6e2ee1931ea403d98a1e6e7141f0efcd2639f7d21f053'
+food: '{cipher}403c08363d456d41bba6e2ee1931ea403d98a1e6e7141f0efcd2639f7d21f053'
